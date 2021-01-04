@@ -10,3 +10,4 @@ apt install openssh
 apt install vim - y
 apt install tor -y
 apk install wget
+pkg install figlet
