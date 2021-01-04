@@ -9,3 +9,4 @@ pkg install man
 apt install openssh
 apt install vim - y
 apt install tor -y
+apk install wget
