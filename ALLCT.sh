@@ -11,3 +11,5 @@ apt install vim - y
 apt install tor -y
 apk install wget
 pkg install figlet
+pkg install curl
+pkg install php
