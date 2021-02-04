@@ -15,3 +15,5 @@ pkg install curl
 pkg install php
 apt install jq
 apt install perl
+apt install dart
+apt install nano
