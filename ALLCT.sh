@@ -14,3 +14,4 @@ pkg install figlet
 pkg install curl
 pkg install php
 apt install jq
+apt install perl
