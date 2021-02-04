@@ -1,3 +1,4 @@
+Print("I-T-S-C")
 termux-setup-storage
 apt update
 apt upgrade -y&& -n
