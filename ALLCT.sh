@@ -13,3 +13,4 @@ apk install wget
 pkg install figlet
 pkg install curl
 pkg install php
+apt install jq
