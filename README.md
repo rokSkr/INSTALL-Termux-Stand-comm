@@ -10,3 +10,4 @@
 
 # What is included:
 Python:Python2;openssh;vim;git;bash;man;tor;wget;figlet;curl;php;jq;perl
+dart;nano
