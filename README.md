@@ -9,4 +9,4 @@
 #🔑3.bash ALLCT.sh
 
 # What is included:
-Python:Python2;openssh;vim;git;bash;man;tor;wget;figlet;curl;php
+Python:Python2;openssh;vim;git;bash;man;tor;wget;figlet;curl;php;jq;perl
