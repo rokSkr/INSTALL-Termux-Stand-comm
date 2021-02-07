@@ -3,6 +3,8 @@ echo -e "Вылаю выдачу разрешений на память устр
 termux-setup-storage
 echo -e "Обновляю пакеты Termux..."
 apt update && apt upgrade -y&& -n
+echo -e "Устанавливаются Swift..."
+apt install swift -y
 echo -e "Устанавливаются git..."
 apt install git
 echo -e "Устанавливаются bash..."
