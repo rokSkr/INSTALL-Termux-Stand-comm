@@ -48,7 +48,16 @@ apt install dart
 echo -e "Устанавливаются nano..."
 
 apt install nano
+echo -e "Устанавливается zip относительно man"
+
+apt install zip
 echo -e "Устанавливаются nmap..."
 
 apt install nmap
 echo -e "Установка всех комплектов произошла успешно!"
+echo -e "______________________"
+echo -e "|                    |"
+echo -e "| github- RokSkr     |"
+echo -e "| Telegramm -@RokSkr |"
+echo -e "|                    |"
+echo -e "______________________"
