@@ -55,7 +55,7 @@ apt install zip
 echo -e "Устанавливаются nmap..."
 
 apt install nmap
-echo -e "Устанавливаюися urllib...") 
+echo -e "Устанавливаюися urllib..."
 
 pip install urllib
 echo -e "Установка всех комплектов произошла успешно!"
