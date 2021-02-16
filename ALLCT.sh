@@ -1,5 +1,6 @@
 echo -e "---I---T---S---C---"
 echo -e "Выдаю разрешение на память устройства(для полноценной установки некоторых библиотек)"
+echo -e "Если ты доверяешь этому скрипту введи 'y' если не доверяешь введи 'n'(y- yes n - no тоесть ты даешь разрешение на память, и не даешь разрешение на памать)"
 termux-setup-storage
 echo -e "Обновляю пакеты Termux..."
 apt update && apt upgrade -y&& -n
@@ -54,6 +55,9 @@ apt install zip
 echo -e "Устанавливаются nmap..."
 
 apt install nmap
+echo -e "Устанавливаюися urllib...") 
+
+pip install urllib
 echo -e "Установка всех комплектов произошла успешно!"
 echo -e "______________________"
 echo -e "|                    |"
@@ -61,3 +65,4 @@ echo -e "| github- RokSkr     |"
 echo -e "| Telegramm -@RokSkr |"
 echo -e "|                    |"
 echo -e "______________________"
+echo -e "Введи либо 'Exit' либо 'Doc'('Exit' -Выход 'Doc' - Documents справочник что установилось) 
