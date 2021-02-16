@@ -66,3 +66,8 @@ echo -e "| Telegramm -@RokSkr |"
 echo -e "|                    |"
 echo -e "______________________"
 echo -e "Введи либо 'Exit' либо 'Doc'('Exit' -Выход 'Doc' - Documents справочник что установилось) 
+ed = input("") 
+If ed == "Exit":
+    Print("Ты вышел") 
+If ed == "Doc":
+    Print("IT'S TEST VERSI0N")
