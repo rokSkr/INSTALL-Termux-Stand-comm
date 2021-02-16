@@ -60,7 +60,7 @@ echo -e "Устанавливаюися urllib..."
 pip install urllib
 echo -e "Установка всех комплектов произошла успешно!"
 echo -e "______________________"
-echo -e "|                    |"
+echo -e "|     I-T-S-C        |"
 echo -e "| github- RokSkr     |"
 echo -e "| Telegramm -@RokSkr |"
 echo -e "|                    |"
