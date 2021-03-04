@@ -5,7 +5,9 @@ termux-setup-storage
 echo -e "Обновляю пакеты Termux..."
 
 apt update && apt upgrade -y&& -n
-echo -e "Проверяю есть ли Swift..."
+echo -e "Устанавливаются tsu..."
+pkg install tsu
+echo -e "Устанавливаются Swift..."
 
 apt install swift -y
 echo -e "Устанавливаются git..."
@@ -41,6 +43,7 @@ echo -e "Устанавливаются figlet..."
 
 pkg install figlet
 echo -e "Устанавливаются curl..."
+
 
 pkg install curl
 echo -e "Устанавливаются php..."
