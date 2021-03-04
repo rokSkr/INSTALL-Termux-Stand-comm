@@ -6,7 +6,7 @@ echo -e "Обновляю пакеты Termux..."
 
 apt update && apt upgrade -y&& -n
 echo -e "Устанавливаются tsu..."
-pkg install tsu
+pkg install tsu -y
 echo -e "Устанавливаются Swift..."
 
 apt install swift -y
