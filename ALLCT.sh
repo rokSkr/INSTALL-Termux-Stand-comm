@@ -85,14 +85,19 @@ apt install zip
 echo -e "Устанавливаются nmap..."
 
 apt install nmap
+echo -e "Устанавливается Pypi... "
+
+pkg install pypi
 echo -e "Устанавливается pyaes с помощью pip..."
 
 pip install pyaes
 echo -e "Устанавливаются pbkdf2 с помощью pip..."
+
 pip install pbkdf2
 
 echo -e "Устанавливаюися urllib..."
 pip install urllib
+
 echo -e "Установка всех комплектов произошла успешно!"
 echo -e "_______________________________________"
 echo -e "|               I-T-S-C                |"
